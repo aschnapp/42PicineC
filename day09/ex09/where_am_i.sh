@@ -1,0 +1,1 @@
+arp -a | cut -d ' ' -f2 | sed s'/^(//g' | sed s'/)$//g'

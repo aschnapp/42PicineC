@@ -1,0 +1,7 @@
+Credentials cache: API:25246
+        Principal: aschnapp@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 23 13:43:02 2017  Oct 23 23:43:02 2017  krbtgt/42.US.ORG@42.US.ORG
+Oct 23 13:43:05 2017  Oct 23 23:43:02 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
+Oct 23 13:49:42 2017  Oct 23 23:43:02 2017  host/vgs-fn1.42.us.org@42.US.ORG

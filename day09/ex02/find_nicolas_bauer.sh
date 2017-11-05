@@ -1,0 +1,1 @@
+cat contacts_hard.txt | grep -i 'nicolas\tbauer' | tail -1 | grep '(*' | cut -f4
